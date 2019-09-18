@@ -1,7 +1,7 @@
 # SplashTextView
 文本闪烁
 # 效果
-
+![image](https://github.com/drkingwater/SplashTextView/blob/master/gif/SplashTextView.gif)
 # 用法
 
 
